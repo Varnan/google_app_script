@@ -9,7 +9,7 @@ function onOpen() {
 function addData() {
   var sheet = SpreadsheetApp.getActiveSheet();
   
-  var url = "http://hobbit.dev.shadowfax.in:8006/sellers/1mg/orders/list/1/"
+  var url = "http://www.url.com/XXXXX/YYYY/ZZZZZ/list/1/"
   
   var response = UrlFetchApp.fetch(url);
   
